@@ -37,7 +37,7 @@ O Budget Planner é uma aplicação web desenvolvida para auxiliar no controle f
 6. Editar/Excluir: Clique nos ícones de edição ou exclusão nas transações
 
 ## 🖥️ Deploy
-Este projeto está hospedado e pode ser acessado [aqui](https://gstv-luiz-portfolio.vercel.app/)!
+Este projeto está hospedado e pode ser acessado [aqui](https://budget-planner-gstvluizs-projects.vercel.app/)!
 
 ## 🤙 Entre em Contato!
 
